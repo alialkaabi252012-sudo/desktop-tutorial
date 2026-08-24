@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+connect 3 LED's to digital pin 2,3 and 4, press connect arduino then open the camera. It should light a different number of LED's depending on the amount of fingers you are holding up. thank you.
